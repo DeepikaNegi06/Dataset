@@ -1,0 +1,61 @@
+OrderID|Product|Quantity|Price|Status
+1|Notebook|2|19.99|Shipped
+2|Pen|10|2.50|Pending
+3|Desk Chair|1|150.00|Delivered
+4|Lamp|5|25.99|Shipped
+5|Monitor|3|199.99|Cancelled
+6|Mouse|7|15.99|Delivered
+7|Keyboard|4|45.00|Pending
+8|Phone|2|699.99|Shipped
+9|Tablet|1|299.99|Delivered
+10|Backpack|3|49.99|Cancelled
+11|Headphones|8|89.99|Shipped
+12|Webcam|2|39.99|Delivered
+13|Printer|1|120.00|Pending
+14|Router|5|59.99|Shipped
+15|USB Cable|10|5.99|Cancelled
+16|Charger|4|25.00|Delivered
+17|Desk Lamp|3|75.50|Pending
+18|Speaker|6|130.00|Delivered
+19|Desk Organizer|7|20.00|Shipped
+20|Monitor Stand|2|70.00|Pending
+21|Wireless Mouse|9|25.99|Shipped
+22|External HDD|1|99.99|Delivered
+23|Laptop Stand|4|35.00|Pending
+24|Microphone|5|49.99|Shipped
+25|USB Hub|3|15.50|Delivered
+26|Graphic Tablet|2|150.00|Cancelled
+27|Smartwatch|1|199.99|Shipped
+28|Memory Card|10|9.99|Delivered
+29|Power Bank|4|35.99|Pending
+30|Monitor 4K|1|399.99|Shipped
+31|Keyboard Mechanical|3|120.00|Delivered
+32|Desk Mat|5|19.99|Cancelled
+33|Webcam HD|2|59.99|Shipped
+34|Noise Cancelling Headphones|1|199.99|Pending
+35|Laptop Sleeve|7|25.00|Delivered
+36|Portable Speaker|4|49.99|Shipped
+37|Ethernet Cable|10|7.99|Delivered
+38|USB Flash Drive|5|12.99|Pending
+39|Smartphone Case|3|15.99|Cancelled
+40|Tablet Cover|2|29.99|Shipped
+41|Bluetooth Adapter|1|22.99|Delivered
+42|Monitor Arm|4|85.00|Pending
+43|Wireless Charger|6|35.00|Shipped
+44|Gaming Chair|1|300.00|Delivered
+45|Cable Organizer|7|9.99|Cancelled
+46|Phone Stand|9|12.50|Shipped
+47|Laptop Cooling Pad|3|45.00|Pending
+48|USB-C Docking Station|2|119.99|Delivered
+49|Projector|1|450.00|Shipped
+50|Digital Camera|2|320.00|Delivered
+51|VR Headset|1|399.99|Pending
+52|Smart Home Hub|3|89.99|Shipped
+53|Action Camera|4|150.00|Delivered
+54|Fitness Tracker|5|79.99|Cancelled
+55|Smart Light Bulb|6|19.99|Shipped
+56|HDMI Cable|10|14.99|Delivered
+57|Laptop Backpack|2|75.00|Pending
+58|Docking Station|1|140.00|Shipped
+59|USB Microphone|3|65.00|Delivered
+60|Portable SSD|5|120.00|Cancelled
